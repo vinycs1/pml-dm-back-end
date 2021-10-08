@@ -10,7 +10,12 @@ export class AnwsersService {
   '3': "Matheus Morais",
   '4': "Miguel Oliveira",
   '5': "Stephanye Castellano",
-  '6': "Vinicius Castro"
+  '6': "Vinicius Castro",
+  '7': "Henrique Maltez",
+  '8': "Raphael Carvalho",
+  '9': "Intruso 1",
+  '10': "Intruso 2",
+  '11': "Intruso 3",
   }
 
   create(anwserDto) {
