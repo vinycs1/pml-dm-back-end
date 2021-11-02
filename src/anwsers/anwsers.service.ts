@@ -6,16 +6,16 @@ export class AnwsersService {
   membersAnwsers = {}
   members = {
   '1': "Diego Juarez", 
-  '2': "Ivanilson Almeida",
-  '3': "Matheus Morais",
-  '4': "Miguel Oliveira",
+  '2': "Pedro Diniz",
+  '3': "Matheus Fumian",
+  '4': "Marcus Martins",
   '5': "Stephanye Castellano",
   '6': "Vinicius Castro",
-  '7': "Henrique Maltez",
+  '7': "Gustavo Silva",
   '8': "Raphael Carvalho",
-  '9': "Intruso 1",
-  '10': "Intruso 2",
-  '11': "Intruso 3",
+  '9': "Willian Tavares",
+  '10': "Vitor Ellwanger",
+  '11': "Intruso 1",
   }
 
   create(anwserDto) {
