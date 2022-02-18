@@ -5,21 +5,13 @@ import { Injectable } from '@nestjs/common';
 export class AnwsersService {
   membersAnwsers = {}
   members = {
-  '1': "Diego Juarez", 
-  '2': "Pedro Diniz",
-  '3': "Matheus Fumian",
-  '4': "Marcus Martins",
+  '1': "Aldilane Silva", 
+  '2': "Leonardo Rissi",
+  '3': "Leonardo Gomes",
+  '4': "Rafael Ferrari",
+  '8': "Raphael Carvalho",
   '5': "Stephanye Castellano",
   '6': "Vinicius Castro",
-  '7': "Gustavo Silva",
-  '8': "Raphael Carvalho",
-  '9': "Willian Tavares",
-  '10': "Vitor Ellwanger",
-  '11': "Henrique Maltez",
-  '12': "Larissa Oliveira",
-  '13': "Matheus Morais",
-  '14': "Levi Bastos",
-  '15': "Aramys Matos",
   '16': "Intruso 1",
   '17': "Intruso 2",
   }
