@@ -14,6 +14,7 @@ export class AnwsersService {
   '11': "Vinicius Castro",
   '16': "Intruso 1",
   '17': "Intruso 2",
+  '18': "Duplamente Intruso",
   }
 
   create(anwserDto) {
